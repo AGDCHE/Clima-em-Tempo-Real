@@ -11,7 +11,9 @@ https://agdche.github.io/Clima-em-Tempo-Real/
 ---
 ## 📸 Preview
 
-> Interface simples, moderna e responsiva, com fundos e animações que mudam conforme o clima e o período do dia.
+<img src="./assets/imagen do Clima em tempo Real.png">
+
+> Interface simples, moderna e responsiva, com fundos que mudam conforme o clima e o período do dia.
 
 ---
 
